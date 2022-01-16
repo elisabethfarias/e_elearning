@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">e_elearning</string>
+    <string name="title">Aprenda da melhor forma</string>
+    <string name="platform_description">Entre na plataforma e acesse cursos de diversas áreas de conhecimento.</string>
+    <string name="study">Começar os estudos</string>
 </resources>

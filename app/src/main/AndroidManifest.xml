@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.E_elearning">
         <activity
-            android:name=".SlasphActivity"
+            android:name=".ui.SlasphActivity"
             android:exported="true"
             android:theme="@style/Theme.E_elearning.Splash">
             <intent-filter>

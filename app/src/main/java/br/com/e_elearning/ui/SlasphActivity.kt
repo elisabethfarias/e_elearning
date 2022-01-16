@@ -1,9 +1,10 @@
-package br.com.e_elearning
+package br.com.e_elearning.ui
 
 import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
 import androidx.appcompat.app.AppCompatActivity
+import br.com.e_elearning.MainActivity
 import br.com.e_elearning.databinding.ActivitySplashBinding
 
 class SlasphActivity : AppCompatActivity() {
